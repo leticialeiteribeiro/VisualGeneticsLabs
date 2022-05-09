@@ -2,12 +2,19 @@
 	Visual Genetics Labs
 </h1>
 
-<h3 align="center">
-	NLW Return - Origin
-</h3>
+<h4 align="center">
+	BASE: Desafio NLW Return - Origin
+</h4>
 
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit//?color=green"/>
+</p>
+
+<p align="left">
+      Site construído com base no desafio da ROCKETSEAT (NLW Return - Origin).
+      Anteriormente tinha um template e através do desafio, vi a oportunidade de 
+      alterar o site e aprender mais.
+      Gratidão a todos da ROCKETSEAT.
 </p>
 
 <p align="center">
