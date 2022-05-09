@@ -135,6 +135,13 @@ section .content p {
   gap: 3.2rem;
 }
 
+.awards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
 /* custom colors */
 #services .card circle {
   fill: var(--brand-light);
@@ -453,6 +460,10 @@ footer p {
 }
 
 footer .social-links {
+  justify-content: flex-start;
+}
+
+footer .awards {
   justify-content: flex-start;
 }
 
